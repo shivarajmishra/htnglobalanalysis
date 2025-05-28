@@ -1,4 +1,4 @@
-# HTN Global Analyses
+# HTN Global Analysis
 
 This repository contains code, data, and documentation for analyzing global hypertension (HTN) patterns, with a focus on healthcare workforce capacity and patient management strategies.
 
